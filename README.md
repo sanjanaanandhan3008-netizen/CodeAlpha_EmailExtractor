@@ -28,7 +28,9 @@ python email_extractor.py
 
 ## Sample Output
 support@gmail.com
+
 sales@company.com
+
 admin@yahoo.com
 
 ## Author
